@@ -1,11 +1,11 @@
 # OBA Leren Zoeken App
 
-Voor de opdracht Leren-zoeken-app leer je met een team voor een opdrachtgever een data-driven online concept uitwerken.
+Voor de opdracht Leren-zoeken-app ga je met een team voor een opdrachtgever een data-driven online concept uitwerken.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: Werk met een team voor een opdrachtgever een data-driven online concept uitwerken. Deze leertaak hoort bij sprint 12 "Proog of Concept". Dit is een zelfstandige teamopdracht voor een opdrachtgever.
+Leertaak: Werk met een team voor een opdrachtgever een data-driven online concept uitwerken. Deze leertaak hoort bij sprint 12 "Proof of Concept". Dit is een zelfstandige teamopdracht voor een opdrachtgever.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
@@ -26,7 +26,10 @@ Je leert samenwerken, en hoe je een opdrachtgever kan helpen met het uitwerken v
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
 
-Functionaliteiten beschrijven die de studenten zelf in job stories moeten schrijven. 
+In de eerste week is een briefing bij de opdrachtgever.
+Wekelijks ga je het concept testen en worden de vorderingen aan de opdrachtgever gedemonstreerd en volgende stappen besproken.
+
+Functionaliteiten beschrijven die de studenten worden onderzoct en in job stories geschhreven. 
 
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
