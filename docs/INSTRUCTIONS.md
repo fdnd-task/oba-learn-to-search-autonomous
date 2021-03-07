@@ -5,7 +5,9 @@ Voor de opdracht Leren-zoeken-app ga je met een team voor een opdrachtgever een 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: Werk met een team voor een opdrachtgever een data-driven online concept uitwerken. Deze leertaak hoort bij sprint 12 "Proof of Concept". Dit is een zelfstandige teamopdracht voor een opdrachtgever.
+Leertaak: Werk met een team voor een opdrachtgever een data-driven online concept uitwerken. 
+Deze leertaak hoort bij sprint 12 "Proof of Concept". 
+Dit is een zelfstandige teamopdracht voor een opdrachtgever.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
@@ -29,8 +31,7 @@ Je leert samenwerken, en hoe je een opdrachtgever kan helpen met het uitwerken v
 In de eerste week is een briefing bij de opdrachtgever.
 Wekelijks ga je het concept testen en worden de vorderingen aan de opdrachtgever gedemonstreerd en volgende stappen besproken.
 
-Functionaliteiten beschrijven die de studenten worden onderzoct en in job stories geschhreven. 
-
+Functionaliteiten beschrijven die de studenten worden onderzoct en in job stories geschreven.
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
@@ -61,7 +62,6 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 4. Living styleguide OBA huihsstijl
 5. Schets per Job Story een wireflow van de interface en werking.
 6. Teken een break-down schets.
-
 
 #### Materiaal
 
@@ -116,5 +116,20 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 2. De zoekresultaten worden getoond in een webpagina.
 3. De UI is duidelijk en prettig te gebruiken met goede feedback en ...
 4. Een aantal states van de UI stack worden opgevangen en zijn vormgegeven.
-5. Verschillende *HTTP response status codes* zijn opgevangen en vormgegeven.
+5. Er is getest en de testresultaten zijn gebruikt voor een verbtering van het concept.
+6. Het ontwerp is gepresenteerd aan de opdrachtgever.
 
+Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en hoe je een dynamische website kan maken waar bezoekers ook iets achter kunnen laten.
+
+Focus sprint 8 - De focus van deze sprint ligt op het maken van een opdracht voor een opdrachtgever, leren hoe je externe data kan laden en presenteren. 
+Je hebt data, die ga je laden en tonen, zodat iemand daar iets mee kan doen. Dat betekent veel voor de interface, het laden van de data kost tijd en de data kan veranderen, hoe toon je dat en hoe zorg je dat je gebruiker 'controle' ervaart"
+
+Focus sprint 9 - De focus van deze sprint ligt op gebruiksvriendelijkheid, toegankelijkheid, testen en de testresultaten gebruiken voor het verbeteren van een ontwerp. 
+Server site rendering leren. Progressive enhancement leren. Core functionaliteit kunnen bepalen en implementeren.
+
+Focus sprint 10 - De focus van deze sprint ligt op het beter en sneller laten werken van een applicatie, ook als er geen verbinding is met het internet. 
+Service worker, performance, testen, 
+
+Focus sprint 11 - De focus van deze sprint ligt op het maken van multi-user omgeving door het opzetten van een real-time verbinding tussen client en server. Realtime en data management.
+
+Focus sprint 12 - De focus van deze sprint ligt op werkwijze en samenwerken, en hoe je een opdrachtgever kan helpen met het uitwerken van een concept. Iteratief (samen) werken: prototypen en testen om een concept te realiseren.
