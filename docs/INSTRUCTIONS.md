@@ -31,7 +31,7 @@ Je leert samenwerken, en hoe je een opdrachtgever kan helpen met het uitwerken v
 In de eerste week is een briefing bij de opdrachtgever.
 Wekelijks ga je het concept testen en worden de vorderingen aan de opdrachtgever gedemonstreerd en volgende stappen besproken.
 
-Functionaliteiten beschrijven die de studenten worden onderzoct en in job stories geschreven.
+Functionaliteiten beschrijven die de studenten worden onderzocht en in job stories geschreven.
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
@@ -118,6 +118,11 @@ Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwer
 4. Een aantal states van de UI stack worden opgevangen en zijn vormgegeven.
 5. Er is getest en de testresultaten zijn gebruikt voor een verbtering van het concept.
 6. Het ontwerp is gepresenteerd aan de opdrachtgever.
+
+
+(mini) meesterproef van semester 2 heeft alle leertaken. 
+Dit is een optelsom van alles wat ze geleerd hebben in de voorgaande sprints.
+De focus van alle sprints opgeteld:
 
 Focus sprint 7 - De focus in deze sprint ligt op team building, samenwerken en hoe je een dynamische website kan maken waar bezoekers ook iets achter kunnen laten.
 
